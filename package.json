@@ -1,0 +1,16 @@
+{
+  "name": "recast-flow-parser-imports-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "devDependencies": {
+    "ast-types": "0.14.2",
+    "chai": "4.2.0",
+    "flow-parser": "0.141.0",
+    "mocha": "8.2.1",
+    "recast": "0.20.4"
+  }
+}
